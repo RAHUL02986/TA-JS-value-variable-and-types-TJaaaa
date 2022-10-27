@@ -5,6 +5,10 @@
 3. Declare variable `age` and `isLearning` with value `22` and `true` in the same line. hint: declaring multiplemvariable in one line.
 4. Now change the value of `user` to `John` and log the value of both `user` and `userName`.
 */
+let = prompt("user");
+user=prompt("userName");
+console.log("name");
+
 
 /* 2.
 Use `prompt` to take two numbers from user and store it in variable `numA` and `numB`. Create a third variable called `sum`, using `+` operator add numA and numB , store it in varible `sum` and using alert display `sum` in browser.
